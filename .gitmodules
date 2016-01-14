@@ -7,3 +7,6 @@
 [submodule "dbc148"]
 	path = dbc148
 	url = https://github.com/dbc148/sp2016.11-731
+[submodule "qilans"]
+	path = qilans
+	url = https://github.com/qinlans/sp2016.11-731
