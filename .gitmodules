@@ -3,4 +3,7 @@
 	url = https://github.com/mfaruqui/sp2016.11-731.git
 [submodule "armatthews"]
 	path = armatthews
-	url = https://github.com/armatthews/sp2015.11-731
+	url = https://github.com/armatthews/sp2016.11-731
+[submodule "dbc148"]
+	path = dbc148
+	url = https://github.com/dbc148/sp2016.11-731
