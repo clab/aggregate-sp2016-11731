@@ -16,3 +16,6 @@
 [submodule "michaelalanmiller"]
 	path = michaelalanmiller
 	url = https://github.com/michaelalanmiller/sp2016.11-731
+[submodule "xlhdh"]
+	path = xlhdh
+	url = https://github.com/xlhdh/sp2016.11-731
