@@ -10,3 +10,6 @@
 [submodule "qilans"]
 	path = qilans
 	url = https://github.com/qinlans/sp2016.11-731
+[submodule "adhigunasurya"]
+	path = adhigunasurya
+	url = https://github.com/adhigunasurya/sp2016.11-731
