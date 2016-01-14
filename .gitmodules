@@ -13,3 +13,6 @@
 [submodule "adhigunasurya"]
 	path = adhigunasurya
 	url = https://github.com/adhigunasurya/sp2016.11-731
+[submodule "michaelalanmiller"]
+	path = michaelalanmiller
+	url = https://github.com/michaelalanmiller/sp2016.11-731
