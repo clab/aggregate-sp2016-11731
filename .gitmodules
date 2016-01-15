@@ -22,3 +22,6 @@
 [submodule "elliotschu"]
 	path = elliotschu
 	url = https://github.com/elliotschu/sp2016.11-731
+[submodule "emilytag"]
+	path = emilytag
+	url = https://github.com/emilytag/sp2016.11-731
