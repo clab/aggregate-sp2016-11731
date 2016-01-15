@@ -25,3 +25,6 @@
 [submodule "emilytag"]
 	path = emilytag
 	url = https://github.com/emilytag/sp2016.11-731
+[submodule "rooa"]
+	path = rooa
+	url = https://github.com/rooa/sp2016.11-731
