@@ -19,3 +19,6 @@
 [submodule "xlhdh"]
 	path = xlhdh
 	url = https://github.com/xlhdh/sp2016.11-731
+[submodule "elliotschu"]
+	path = elliotschu
+	url = https://github.com/elliotschu/sp2016.11-731
