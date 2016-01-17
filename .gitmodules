@@ -28,3 +28,6 @@
 [submodule "rooa"]
 	path = rooa
 	url = https://github.com/rooa/sp2016.11-731
+[submodule "MaximumEntropy"]
+	path = MaximumEntropy
+	url = https://github.com/MaximumEntropy/sp2016.11-731
