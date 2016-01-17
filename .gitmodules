@@ -34,3 +34,6 @@
 [submodule "akashb-cmu"]
 	path = akashb-cmu
 	url = https://github.com/akashb-cmu/sp2016.11-731.git
+[submodule "ZhitingHu"]
+	path = ZhitingHu
+	url = https://github.com/ZhitingHu/sp2016.11-731
