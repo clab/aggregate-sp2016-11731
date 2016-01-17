@@ -40,3 +40,6 @@
 [submodule "yiuchanl"]
 	path = yiuchanl
 	url = https://github.com/yiuchanl/sp2016.11-731.git
+[submodule "frederick0329"]
+	path = frederick0329
+	url = https://github.com/frederick0329/sp2016.11-731
