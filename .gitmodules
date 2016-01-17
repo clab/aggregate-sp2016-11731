@@ -37,3 +37,6 @@
 [submodule "ZhitingHu"]
 	path = ZhitingHu
 	url = https://github.com/ZhitingHu/sp2016.11-731
+[submodule "yiuchanl"]
+	path = yiuchanl
+	url = https://github.com/yiuchanl/sp2016.11-731.git
