@@ -43,3 +43,6 @@
 [submodule "frederick0329"]
 	path = frederick0329
 	url = https://github.com/frederick0329/sp2016.11-731
+[submodule "berniebear"]
+	path = berniebear
+	url = https://github.com/berniebear/sp2016.11-731
