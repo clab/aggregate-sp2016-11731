@@ -49,3 +49,6 @@
 [submodule "da03"]
 	path = da03
 	url = https://github.com/da03/sp2016.11-731.git
+[submodule "sshiang"]
+	path = sshiang
+	url = https://github.com/sshiang/sp2016.11-731
