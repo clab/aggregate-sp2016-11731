@@ -1,6 +1,3 @@
-[submodule "mfaruqui"]
-	path = mfaruqui
-	url = https://github.com/mfaruqui/sp2016.11-731.git
 [submodule "armatthews"]
 	path = armatthews
 	url = https://github.com/armatthews/sp2016.11-731
