@@ -58,6 +58,3 @@
 [submodule "kortemaki"]
 	path = kortemaki
 	url = https://github.com/kortemaki/sp2016.11-731.git
-[submodule "junweil"]
-	path = junweil
-	url = https://github.com/junweil/sp2016.11-731
