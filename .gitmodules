@@ -58,3 +58,6 @@
 [submodule "kortemaki"]
 	path = kortemaki
 	url = https://github.com/kortemaki/sp2016.11-731.git
+[submodule "mfaruqui"]
+	path = mfaruqui
+	url = https://github.com/mfaruqui/sp2016.11-731/
