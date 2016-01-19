@@ -55,9 +55,6 @@
 [submodule "ramakumar1729"]
 	path = ramakumar1729
 	url = https://github.com/ramakumar1729/sp2016.11-731.git
-[submodule "junweil"]
-	path = junweil
-	url = https://github.com/junweil/mt-hw
 [submodule "kortemaki"]
 	path = kortemaki
 	url = https://github.com/kortemaki/sp2016.11-731.git
